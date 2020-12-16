@@ -1,0 +1,10 @@
+C:\Users\ccfai\OneDrive\Desktop\Basic_C#_Programs\Twenty_One\TwentyOne\TwentyOne\bin\Debug\TwentyOne.exe.config
+C:\Users\ccfai\OneDrive\Desktop\Basic_C#_Programs\Twenty_One\TwentyOne\TwentyOne\bin\Debug\TwentyOne.exe
+C:\Users\ccfai\OneDrive\Desktop\Basic_C#_Programs\Twenty_One\TwentyOne\TwentyOne\bin\Debug\TwentyOne.pdb
+C:\Users\ccfai\OneDrive\Desktop\Basic_C#_Programs\Twenty_One\TwentyOne\TwentyOne\obj\Debug\TwentyOne.csprojAssemblyReference.cache
+C:\Users\ccfai\OneDrive\Desktop\Basic_C#_Programs\Twenty_One\TwentyOne\TwentyOne\obj\Debug\TwentyOne.csproj.CoreCompileInputs.cache
+C:\Users\ccfai\OneDrive\Desktop\Basic_C#_Programs\Twenty_One\TwentyOne\TwentyOne\obj\Debug\TwentyOne.exe
+C:\Users\ccfai\OneDrive\Desktop\Basic_C#_Programs\Twenty_One\TwentyOne\TwentyOne\obj\Debug\TwentyOne.pdb
+C:\Users\ccfai\OneDrive\Desktop\Basic_C#_Programs\Twenty_One\TwentyOne\TwentyOne\bin\Debug\Casino.dll
+C:\Users\ccfai\OneDrive\Desktop\Basic_C#_Programs\Twenty_One\TwentyOne\TwentyOne\bin\Debug\Casino.pdb
+C:\Users\ccfai\OneDrive\Desktop\Basic_C#_Programs\Twenty_One\TwentyOne\TwentyOne\obj\Debug\TwentyOne.csproj.CopyComplete
